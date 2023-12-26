@@ -1,0 +1,9 @@
+Options: add,subtract,multiply,divide
+Enter 'exit' to end the program
+: subtract
+Enter first number: 10
+Enter second number: 7
+Result:  3.0
+Options: add,subtract,multiply,divide
+Enter 'exit' to end the program
+: 
